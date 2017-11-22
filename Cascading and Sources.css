@@ -1,0 +1,38 @@
+#header {
+	background-color: #5b4a99;
+	border: dotted 2px black ;
+	color: white;
+	font-size: 16px;
+	padding: 5px;
+	width: 100%;
+}
+
+#fpara {
+	padding-left: 5px;
+	padding-right: 15px;
+	margin: 10px;
+	text-align: justify;
+	font-size: 18px;
+	float: left;
+	width: 65%;
+}
+
+#sidebar {
+	width: 25%;
+	padding: 10px;
+	float: left;
+	display:  table;
+		border-left: 3px
+		solid green;
+		height: 900px;	
+	text-decoration-line: overline;
+	text-decoration-color: blue;	
+
+					}
+#picture1 {
+	display: block;
+	margin: auto;
+	width: 60%;
+}
+
+
