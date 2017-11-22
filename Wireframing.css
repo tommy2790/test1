@@ -1,1 +1,32 @@
-Wireframing.css
+#body{
+	background-color: #5286c1;
+}
+li{
+
+	display: inline-block;
+	padding: 5px;
+	color: white;
+	font-family: akrobat;
+}
+ul{
+	margin: auto;
+	position: fixed;
+	width: 55%;
+	float: left;
+	background-color: #4371a3;
+
+}
+#logo{
+	display: inline-flex;
+	padding-left: 90px;
+	padding-top: 0px;
+}
+#lo{
+	padding-left: 100px;
+	padding-top: 0px;
+}
+#log{
+	padding-left: 130px;
+	padding-top: 15px;
+
+}
